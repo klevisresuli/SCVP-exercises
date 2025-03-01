@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/klevisresuli/Documents/second_year/SystemC/exercises/exercise8/build",
+  "command": "/usr/bin/c++  -I/opt/systemc/include -g -o CMakeFiles/exercise8.dir/main.cpp.o -c /home/klevisresuli/Documents/second_year/SystemC/exercises/exercise8/SCVP.Exercise8/main.cpp",
+  "file": "/home/klevisresuli/Documents/second_year/SystemC/exercises/exercise8/SCVP.Exercise8/main.cpp"
+},
+{
+  "directory": "/home/klevisresuli/Documents/second_year/SystemC/exercises/exercise8/build",
+  "command": "/usr/bin/c++  -I/opt/systemc/include -g -o CMakeFiles/exercise8.dir/memory_manager.cpp.o -c /home/klevisresuli/Documents/second_year/SystemC/exercises/exercise8/SCVP.Exercise8/memory_manager.cpp",
+  "file": "/home/klevisresuli/Documents/second_year/SystemC/exercises/exercise8/SCVP.Exercise8/memory_manager.cpp"
+}
+]
