@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/klevisresuli/Documents/second_year/SystemC/exercises/exercise2/build",
+  "command": "/usr/bin/c++  -I/opt/systemc/include -g -o CMakeFiles/exercise2.dir/exor_main.cpp.o -c /home/klevisresuli/Documents/second_year/SystemC/exercises/exercise2/SCVP.Exercise2/exor_main.cpp",
+  "file": "/home/klevisresuli/Documents/second_year/SystemC/exercises/exercise2/SCVP.Exercise2/exor_main.cpp"
+}
+]
