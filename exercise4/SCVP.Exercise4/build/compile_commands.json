@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/klevisresuli/Documents/second_year/SystemC/exercises/exercise4/SCVP.Exercise4/build",
+  "command": "/usr/bin/c++  -I/opt/systemc/include -g -o CMakeFiles/exercise4.dir/main.cpp.o -c /home/klevisresuli/Documents/second_year/SystemC/exercises/exercise4/SCVP.Exercise4/main.cpp",
+  "file": "/home/klevisresuli/Documents/second_year/SystemC/exercises/exercise4/SCVP.Exercise4/main.cpp"
+}
+]
